@@ -1,0 +1,57 @@
+.home {
+	width: 100%;
+	height: 100vh;
+	position: relative;
+}
+
+.home img {
+	width: 100%;
+	height: 100vh;
+	object-fit: cover;
+	z-index: -1;
+}
+.home .container {
+	position: absolute;
+	top: 30%;
+	left: 10%;
+}
+
+.home .content {
+	display: flex;
+	align-items: center;
+	text-align: center;
+}
+
+.content h4,
+h1,
+p {
+	color: #fff;
+}
+
+h4 {
+	font-size: 2.5rem;
+}
+
+h1 {
+	font-size: 4rem;
+}
+
+button {
+	background-color: #3e9bd9;
+	border: 1px solid #3e9bd9;
+	border-radius: 8px;
+	color: #fff;
+	font-size: 1.2rem;
+	cursor: pointer;
+	text-transform: uppercase;
+	padding: 0.7rem 1.6rem;
+	margin-top: 2rem;
+}
+
+/* .container {
+	background-color: green;
+}
+
+.content {
+	background-color: blue;
+} */
