@@ -13,7 +13,7 @@ const Navbar = () => {
 			<div className="container">
 				<div className="logo">
 					<IoIosFitness className="main-icon" />
-					<h2>Fitness active</h2>
+					<h2>adrenaline</h2>
 				</div>
 				<ul className="nav-menu">
 					<li>Home</li>
