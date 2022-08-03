@@ -3,6 +3,7 @@ import Home from './components/home/Home';
 import Fitness from './components/fitness/Fitness';
 import Benefits from './components/benefits/Benefits';
 import Personal from './components/personal/Personal';
+import Footer from './components/footer/Footer';
 
 function App() {
 	return (
@@ -12,6 +13,7 @@ function App() {
 			<Fitness />
 			<Benefits />
 			<Personal />
+			<Footer />
 		</div>
 	);
 }
