@@ -8,7 +8,7 @@ import backGround from '../../assets/pexels-estudio-polaroid-3112004.jpg';
 
 const Benefits = () => {
 	return (
-		<div className="benefits">
+		<div name="benefits" className="benefits">
 			<img src={backGround} alt="" />
 			<div className="content">
 				<h2>Benefits</h2>

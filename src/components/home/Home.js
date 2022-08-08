@@ -4,7 +4,7 @@ import GymFloor from '../../assets/luis-vidal-FodEsaNZs48-unsplash.jpg';
 
 const Home = () => {
 	return (
-		<div className="home">
+		<div name="home" className="home">
 			<img src={GymFloor} alt="" />
 			<div className="container">
 				<div className="content">

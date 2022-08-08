@@ -4,7 +4,7 @@ import Trainer from '../../assets/pexels-pixabay-414029.jpg';
 
 const Personal = () => {
 	return (
-		<div className="personal">
+		<div name="personal" className="personal">
 			<div className="container">
 				<div className="col-1">
 					<div>
